@@ -4,7 +4,7 @@ Vakgroep Geotechniek van Team Water, Groen, Milieu van het Ingenieursbureau van 
 * [gef naar BRO](https://github.com/Amsterdam/gef_naar_bro)
 
 Andere nuttige open bronnen:
-* [breinbaas] (https://github.com/breinbaas)
-* [cemsbv] (https://github.com/cemsbv)
-* [deltares] (https://github.com/Deltares/GEOLib)
-* [snakesonabrain] (https://github.com/snakesonabrain/)
+* [breinbaas](https://github.com/breinbaas)
+* [cemsbv](https://github.com/cemsbv)
+* [deltares](https://github.com/Deltares/GEOLib)
+* [snakesonabrain](https://github.com/snakesonabrain/)
