@@ -2,6 +2,8 @@ Vakgroep Geotechniek van Team Water, Groen, Milieu van het Ingenieursbureau van 
 * [gefxml_reader](https://github.com/Amsterdam/gefxml_viewer)
 * [lengteprofiel](https://github.com/Amsterdam/lengteprofiel)
 * [gef naar BRO](https://github.com/Amsterdam/gef_naar_bro)
+* [lengteprofiel in browser](https://github.com/Amsterdam/webprofiel/)
+* [XML en GEF visualisatie in browser](https://github.com/Amsterdam/webGefXMLInterface/)
 
 Andere nuttige open bronnen:
 * [breinbaas](https://github.com/breinbaas)
